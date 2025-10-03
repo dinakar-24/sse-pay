@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'sanskrithi-payflow',
   webDir: 'dist',
   server: {
-    url: 'https://00b436bd-fb81-4aee-8075-784a53f43ccd.lovableproject.com?forceHideBadge=true',
+    url: 'https://sse-pay.vercel.app',
     cleartext: true
   },
   plugins: {
